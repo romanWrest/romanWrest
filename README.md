@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Привет, я Роман! | Hi I'm Roman</h1>
   
-  <a href="https://t.me/Roman_Wrest">
+  <a href="https://t.me/Roman_Wrest2">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=telegram"/>
   </a>
   <a href="mailto:romanwrest@icloud.com">
